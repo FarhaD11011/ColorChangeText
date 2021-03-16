@@ -3,11 +3,11 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(73, 40, 117);
+    background-color: rgb(25, 23, 27);
 }
 
 h1{
-    font-size: 15rem;
+    font-size: 18rem;
     font-family:'Ubuntu', sans-serif;;
 }
 .latter{
